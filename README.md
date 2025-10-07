@@ -1,4 +1,4 @@
-# Display Flex - Treine sua responsividade
+# Display Flex - Treine sua responsividade 
 
 Este é um projeto simples criado para treinar conceitos de **responsividade** e **CSS Flexbox**. Ele contém uma estrutura básica de HTML e CSS, com blocos estilizados que podem ser organizados e ajustados para diferentes tamanhos de tela.
 
